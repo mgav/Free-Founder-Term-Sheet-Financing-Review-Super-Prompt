@@ -2,9 +2,7 @@
 
 **Understand what you’re actually signing before you give away economics, control, or future flexibility.**
 
-Inspired by the writings of Susan Montgomery:  https://substack.com/@susanjmontgomery 
-
-(But any shortcomings are all Mark Gavagan's)
+By Mark Gavagan + ChatGPT, inspired and informed by the writings of Susan Montgomery:  https://substack.com/@susanjmontgomery 
 
 This free AI prompt is designed to help startup founders review venture financing documents from a **founder-side perspective**.
 
