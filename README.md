@@ -2,7 +2,9 @@
 
 **Understand what you’re actually signing before you give away economics, control, or future flexibility.**
 
-By Mark Gavagan, inspired by the writings of Susan Montgomery (but the shortcomings are all mine!):  https://substack.com/@susanjmontgomery
+Inspired by the writings of Susan Montgomery:  https://substack.com/@susanjmontgomery 
+
+(But any shortcomings are all Mark Gavagan's)
 
 This free AI prompt is designed to help startup founders review venture financing documents from a **founder-side perspective**.
 
